@@ -1,0 +1,10 @@
+{
+  "name": "api-node-classroom",
+  "version": "1.1.0",
+  "description": "API Node.js do laboratório de Docker (portas, variáveis de ambiente e bind mounts)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "license": "ISC"
+}
